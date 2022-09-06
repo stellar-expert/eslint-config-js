@@ -72,6 +72,7 @@ module.exports = {
         }],
 
         //ERROR
+        'semi': ['error', 'never'],
         'indent': ['error', 4],
         'spaced-comment': ['error', 'never', {markers: ['/']}],
         'brace-style': ['error', '1tbs'],
