@@ -1,0 +1,15 @@
+{
+  "name": "@stellar-expert/eslint-config-js",
+  "version": "1.0.0",
+  "description": "StellarExpert coding style conventions for JS projects",
+  "main": ".eslintrc.js",
+  "author": "team@stellar.expert",
+  "license": "MIT",
+  "repository": "https://github.com/stellar-expert/eslint-config-js.git",
+  "peerDependencies": {
+    "eslint": "8.22.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsdoc": "^39.3.6",
+    "eslint-plugin-prefer-arrow": "^1.2.3"
+  }
+}
