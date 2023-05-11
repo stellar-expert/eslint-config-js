@@ -1,6 +1,6 @@
 {
   "name": "@stellar-expert/eslint-config-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "StellarExpert coding style conventions for JS projects",
   "main": ".eslintrc.js",
   "author": "team@stellar.expert",
